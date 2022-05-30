@@ -1,0 +1,54 @@
+.login-box{
+    width: 350px;
+  }
+  
+  .body {
+    align-items: center;
+  }
+.experience{
+  background: url("./home.jpg");
+  background-size: cover;
+  height: '100vh';
+}
+
+
+.login{
+  padding-bottom: 60px;
+}
+
+  .register{
+      padding: 10px 130px;
+  }
+  
+  .scroll{
+    overflow: auto;
+    height: 500px;
+    width: 300px;
+  }
+  
+  .form-signin {
+    width: 100%;
+    max-width: 530px;
+    padding: 15px;
+    margin: auto;
+  }
+  
+  .form-signin .checkbox {
+    font-weight: 400;
+  }
+  
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
